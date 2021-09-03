@@ -1,4 +1,4 @@
-# autofs
+# autolive
 Live edit auto scripts that cache on filesystem and aws services
 
 I want to create a front-end that allows live editing - a built-in
