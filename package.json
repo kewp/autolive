@@ -1,7 +1,0 @@
-{
-  "devDependencies": {
-    "@codemirror/lang-python": "^0.19.2",
-    "@codemirror/state": "^0.19.1",
-    "@codemirror/view": "^0.19.4"
-  }
-}

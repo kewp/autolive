@@ -8,8 +8,10 @@ straight away...
 
 ## running
 
-to setup run `npm install` and then `vite` (should install vite globally,
-maybe with `npm install -g vite`, not sure...)
+to check i recommend just running `vite` (should install vite globally,
+maybe with `npm install -g vite`, not sure...).
+
+right now it just picks up the `index.html` file ...
 
 ## old readme (3 sept 2021)
 
