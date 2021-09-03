@@ -1,4 +1,18 @@
 # autolive
+
+have live python running - edit the text file and it will
+run automatically, and show errors!
+
+want to hook this up to `auto` and have the output shown
+straight away...
+
+## running
+
+to setup run `npm install` and then `vite` (should install vite globally,
+maybe with `npm install -g vite`, not sure...)
+
+## old readme (3 sept 2021)
+
 Live edit auto scripts that cache on filesystem and aws services
 
 I want to create a front-end that allows live editing - a built-in
